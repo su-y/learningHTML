@@ -1,6 +1,4 @@
 .ex1 {
-  height: 200px;
-  width: 200px;
   background-color: var(--bg-turqoise);
   color: #000;
 }
